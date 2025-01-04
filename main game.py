@@ -53,9 +53,6 @@ e.pack()
 st1 = StringVar()
 st1.set("YOU have only 10 attempts remaning!!")
 
-g = Label(a, text="Computer Science project by Group A Names :(Ankit panchal,Bilal khan, Nikhil pandey,amar chahar,swayam )")
-g.pack()
-
 atmp = Label(a, textvariable= st1)
 atmp.pack()
 
